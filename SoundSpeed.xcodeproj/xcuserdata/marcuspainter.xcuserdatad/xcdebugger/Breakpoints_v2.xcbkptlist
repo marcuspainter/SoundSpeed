@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FE145A6A-5EFD-4162-A8B6-AB1E61062AF3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40B27FA5-78B4-4DA8-9321-7E8C28F87175"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoundWeather/LocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getLocationCity(location:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoundWeather/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getWeather(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5 - 814c639edd61fc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SoundWeather.WeatherViewModel.getWeather(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "SoundWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcuspainter/Work/SoundWeather/SoundWeather/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5 - 62336bd973f29275"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SoundWeather.WeatherViewModel.getWeather(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "SoundWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcuspainter/Work/SoundWeather/SoundWeather/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5 - 814c639edd61fc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SoundWeather.WeatherViewModel.getWeather(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "SoundWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcuspainter/Work/SoundWeather/SoundWeather/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5 - 814c639edd61fc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SoundWeather.WeatherViewModel.getWeather(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "SoundWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcuspainter/Work/SoundWeather/SoundWeather/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "7CC3FA13-106D-4EA2-AEF1-1D9399976BD5 - 814c639edd61fc32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SoundWeather.WeatherViewModel.getWeather(location: __C.CLLocation) -&gt; ()"
+                  moduleName = "SoundWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcuspainter/Work/SoundWeather/SoundWeather/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
